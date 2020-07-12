@@ -1,1 +1,1 @@
-This folder contains the submissions of assignment 1.2
+This folder contains the submission of assignment 1.2
