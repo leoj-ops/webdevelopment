@@ -1,0 +1,54 @@
+
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    padding: 20vh;
+    font-family: sans-serif;
+    background-image: url(../image/forest.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.form-container{
+    background-image: url(../image/nature.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: auto;
+    padding: 40px 30px;
+    background-color:#ffffff ;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #000000;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.list{
+    list-style-type: none;
+    text-align: center;
+}
+ li{
+    width: 250px;
+    margin-bottom: 10px;
+}
+input{
+    text-align: center;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.submit{
+    background-color: #4690fb;
+    color: #ffffff;
+}
+.forget{
+    color: cornflowerblue;
+}
+.user-img{
+    background-image: url(../image/avatar.png) ;
+    width: 110px;
+    height: 110px;
+    background-size: 100%;
+    border-radius: 50%;
+    margin-left:69px ;
+}
